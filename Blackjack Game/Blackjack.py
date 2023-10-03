@@ -89,7 +89,7 @@ def take_bet(chips):
     
     while True:
         try:
-            chips.bet = int(input("How many chips would you like to bet? "))
+            chips.bet = int(input("\nHow many chips would you like to bet? "))
         except ValueError:
             print("Enter an integer value for bet!")
         else:
