@@ -239,7 +239,7 @@ while True:
             push(player_hand,dealer_hand)
         
     # Inform Player of their chips total
-    print(f"\n Player total chips are at: {player_chips.total}")
+    print(f"\nPlayer's total chips amount is: {player_chips.total}\n")
         
     # Ask play again
     new_game = input("Would you like to play another hand? 'y' or 'n' ")
