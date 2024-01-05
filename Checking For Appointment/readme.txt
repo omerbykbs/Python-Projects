@@ -15,6 +15,8 @@ For Mac:
 2.Write following commands line by line
 "crontab -e" 
 "*/5 * * * * /path/to/python /path/to/appointment.py"
+
+# To run until 15:00 enter following line 
 "0 15 * * * /usr/bin/killall -q python"
 
 For Windows:
