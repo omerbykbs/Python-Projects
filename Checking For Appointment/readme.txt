@@ -1,4 +1,4 @@
-AUTO MAIL FOR AVAILABLE APPOINTMENT:
+E-MAIL NOTIFICATION FOR AVAILABLE APPOINTMENT:
 
 You can use the code it to be auto informed with Email when there is an available appointment in Bürger Service or anywhere else.
 
